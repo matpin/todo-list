@@ -1,0 +1,62 @@
+#itemsStyle {
+    display: flex;
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.completed-light {
+    text-decoration: line-through;
+    color: rgb(163, 163, 163);
+    background-color: transparent !important;
+    outline: none;
+    border: none;
+    width: 100%
+}
+
+.completed-dark {
+    text-decoration: line-through;
+    color: rgb(163, 163, 163);
+    background-color: transparent !important;
+    outline: none;
+    border: none;
+    width: 100%
+}
+
+.editInput-light {
+    color: black;
+    background-color: transparent !important;
+    outline: none;
+    border: none;
+    width: 100%;
+}
+
+.editInput-dark {
+    color: rgb(255, 255, 255);
+    background-color: transparent !important;
+    outline: none;
+    border: none;
+    width: 100%;
+}
+
+.mostImportantBox {
+    border: 2px solid rgb(254, 38, 38);
+    background-color: transparent;
+    border-radius: 50px;
+}
+
+.importantBox {
+    border: 2px solid #F8DE22;
+    background-color: transparent;
+    border-radius: 50px;
+}
+
+.notImportantBox {
+    border: 2px solid rgb(1, 187, 1);
+    background-color: transparent;
+    border-radius: 50px;
+}
+
+/* .checkboxStyles:active {
+   color: rgb(128, 55, 67) !important;
+} */

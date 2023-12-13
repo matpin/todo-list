@@ -1,0 +1,14 @@
+.light {
+    background-color: #fff;
+    color: #000;
+}
+
+.dark {
+    background-color: rgb(45, 45, 45);
+    color: #fff;
+}
+
+.mh {
+    min-height: 100vh;
+    min-width: 100vw;
+}

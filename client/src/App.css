@@ -1,0 +1,19 @@
+html {
+    font-family: "Roboto";
+}
+
+.appContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+}
+
+.appInner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2em;
+    max-width: 35em;
+}
